@@ -9,7 +9,7 @@ nav{flex-direction: column;}
     background-size: cover;
     z-index: 1;
     position: relative;}
-ul li a{font-size: 40px;margin-left: 15px}
+ul li a{font-size: 20px;margin-left: 15px}
 #services_pic{flex-direction:column;margin-bottom: -23px;}
 .pic img {
     height: 320px;
